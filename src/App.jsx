@@ -5,7 +5,7 @@ function App() {
 
   return (
     <div> 
-      <h1>Star Wars</h1>
+      <h1>Star Wars Git Checking</h1>
       <Routes>
         <Route path="/" element={<LoginPage/>} />
       </Routes>         
